@@ -1,8 +1,7 @@
-# React + Vite
+# sliding sign-in and sign-up form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-  I have created a sliding sign-in and sign-up form using React.js with the Vite framework.
 
-Currently, two official plugins are available:
+## Gif of sliding sign-in and sign-up form
+![gif](signin.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
